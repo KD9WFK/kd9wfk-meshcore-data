@@ -1,0 +1,42 @@
+{
+  "updated": "2026-10-18T15:29:33.215830Z",
+  "homeNode": {
+    "name": "KD9WFK",
+    "device": "LILYGO LILY60",
+    "platform": "MeshCore",
+    "role": "Companion"
+  },
+  "summary": {
+    "contacts": 3,
+    "companions": 1,
+    "repeaters": 2,
+    "roomServers": 0,
+    "floodRoutes": 3
+  },
+  "contacts": [
+    {
+      "name": "NR8O Yagi",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-12T13:12:45Z",
+      "lastModified": "2026-10-12T02:14:14Z"
+    },
+    {
+      "name": "DRZ HQ",
+      "type": "Companion",
+      "typeCode": 1,
+      "route": "Flood",
+      "lastAdvert": "2026-10-09T07:04:01Z",
+      "lastModified": "2026-10-09T07:04:07Z"
+    },
+    {
+      "name": "Quark25",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-09T06:32:39Z",
+      "lastModified": "2026-10-09T06:32:46Z"
+    }
+  ]
+}
