@@ -1,11 +1,16 @@
 {
-  "schemaVersion": 1,
-  "updated": "2026-10-18T15:33:04.119503Z",
+  "schemaVersion": 2,
+  "updated": "2026-10-18T15:44:19.236235Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
     "platform": "MeshCore",
     "role": "Companion"
+  },
+  "mapPrivacy": {
+    "precision": "Approximate",
+    "coordinateDecimals": 1,
+    "exactCoordinatesPublished": false
   },
   "summary": {
     "contacts": 3,
@@ -13,7 +18,8 @@
     "repeaters": 2,
     "roomServers": 0,
     "floodRoutes": 3,
-    "learnedPaths": 0
+    "learnedPaths": 0,
+    "positionedContacts": 3
   },
   "contacts": [
     {
@@ -22,7 +28,10 @@
       "typeCode": 2,
       "route": "Flood",
       "lastAdvert": "2026-10-12T13:12:45Z",
-      "lastModified": "2026-10-12T02:14:14Z"
+      "lastModified": "2026-10-12T02:14:14Z",
+      "mapLat": 39.1,
+      "mapLon": -84.5,
+      "mapLocation": "Approximate"
     },
     {
       "name": "DRZ HQ",
@@ -30,7 +39,10 @@
       "typeCode": 1,
       "route": "Flood",
       "lastAdvert": "2026-10-09T07:04:01Z",
-      "lastModified": "2026-10-09T07:04:07Z"
+      "lastModified": "2026-10-09T07:04:07Z",
+      "mapLat": 39.6,
+      "mapLon": -86.1,
+      "mapLocation": "Approximate"
     },
     {
       "name": "Quark25",
@@ -38,7 +50,10 @@
       "typeCode": 2,
       "route": "Flood",
       "lastAdvert": "2026-10-09T06:32:39Z",
-      "lastModified": "2026-10-09T06:32:46Z"
+      "lastModified": "2026-10-09T06:32:46Z",
+      "mapLat": 41.9,
+      "mapLon": -87.6,
+      "mapLocation": "Approximate"
     }
   ]
 }
