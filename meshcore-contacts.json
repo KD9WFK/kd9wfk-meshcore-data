@@ -1,5 +1,6 @@
 {
-  "updated": "2026-10-18T15:29:33.215830Z",
+  "schemaVersion": 1,
+  "updated": "2026-10-18T15:33:04.119503Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -11,7 +12,8 @@
     "companions": 1,
     "repeaters": 2,
     "roomServers": 0,
-    "floodRoutes": 3
+    "floodRoutes": 3,
+    "learnedPaths": 0
   },
   "contacts": [
     {
