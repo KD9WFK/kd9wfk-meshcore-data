@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-18T15:44:19.236235Z",
+  "updated": "2026-10-20T11:49:22.834684Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -13,15 +13,59 @@
     "exactCoordinatesPublished": false
   },
   "summary": {
-    "contacts": 3,
+    "contacts": 7,
     "companions": 1,
-    "repeaters": 2,
+    "repeaters": 6,
     "roomServers": 0,
-    "floodRoutes": 3,
+    "floodRoutes": 7,
     "learnedPaths": 0,
-    "positionedContacts": 3
+    "positionedContacts": 7
   },
   "contacts": [
+    {
+      "name": "East Hamilton Repeater",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-21T15:03:08Z",
+      "lastModified": "2026-10-20T11:05:39Z",
+      "mapLat": 39.4,
+      "mapLon": -84.5,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.TPC.WLCumberlandPark",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-21T10:51:53Z",
+      "lastModified": "2026-10-20T06:52:42Z",
+      "mapLat": 40.5,
+      "mapLon": -86.9,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.TPC.WLHadleyMoors",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-20T06:59:27Z",
+      "lastModified": "2026-10-20T06:59:37Z",
+      "mapLat": 40.5,
+      "mapLon": -86.9,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.MAR.CIMN DTIndy 01",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-20T06:06:55Z",
+      "lastModified": "2026-10-20T06:07:57Z",
+      "mapLat": 39.8,
+      "mapLon": -86.1,
+      "mapLocation": "Approximate"
+    },
     {
       "name": "NR8O Yagi",
       "type": "Repeater",
