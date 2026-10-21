@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-20T11:49:22.834684Z",
+  "updated": "2026-10-21T22:44:30.585426Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -13,15 +13,26 @@
     "exactCoordinatesPublished": false
   },
   "summary": {
-    "contacts": 7,
-    "companions": 1,
-    "repeaters": 6,
+    "contacts": 9,
+    "companions": 2,
+    "repeaters": 7,
     "roomServers": 0,
-    "floodRoutes": 7,
+    "floodRoutes": 9,
     "learnedPaths": 0,
-    "positionedContacts": 7
+    "positionedContacts": 9
   },
   "contacts": [
+    {
+      "name": "KD9ZHJ Wio",
+      "type": "Companion",
+      "typeCode": 1,
+      "route": "Flood",
+      "lastAdvert": "2026-10-21T22:41:42Z",
+      "lastModified": "2026-10-21T22:42:00Z",
+      "mapLat": 40.1,
+      "mapLon": -86.0,
+      "mapLocation": "Approximate"
+    },
     {
       "name": "East Hamilton Repeater",
       "type": "Repeater",
@@ -97,6 +108,17 @@
       "lastModified": "2026-10-09T06:32:46Z",
       "mapLat": 41.9,
       "mapLon": -87.6,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.HAM.MORSE_SOUTH",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2024-05-15T11:17:32Z",
+      "lastModified": "2026-10-21T22:24:14Z",
+      "mapLat": 40.1,
+      "mapLon": -86.0,
       "mapLocation": "Approximate"
     }
   ]
