@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-21T22:44:30.585426Z",
+  "updated": "2026-10-22T14:42:46.348762Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -13,15 +13,89 @@
     "exactCoordinatesPublished": false
   },
   "summary": {
-    "contacts": 9,
+    "contacts": 14,
     "companions": 2,
-    "repeaters": 7,
-    "roomServers": 0,
-    "floodRoutes": 9,
+    "repeaters": 10,
+    "roomServers": 2,
+    "floodRoutes": 14,
     "learnedPaths": 0,
-    "positionedContacts": 9
+    "positionedContacts": 13
   },
   "contacts": [
+    {
+      "name": "IN.TPC.WLCumberlandPark",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-23T16:51:53Z",
+      "lastModified": "2026-10-22T12:52:39Z",
+      "mapLat": 40.5,
+      "mapLon": -86.9,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "indianaiot.com",
+      "type": "Room Server",
+      "typeCode": 3,
+      "route": "Flood",
+      "lastAdvert": "2026-10-22T13:51:51Z",
+      "lastModified": "2026-10-22T13:51:54Z",
+      "mapLat": 40.0,
+      "mapLon": -86.0,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.HAM.N9ZK_Noblesville",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-22T13:45:35Z",
+      "lastModified": "2026-10-22T13:45:37Z",
+      "mapLat": 40.0,
+      "mapLon": -86.1,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.BEN.WC9IN Event Trai",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-22T13:10:52Z",
+      "lastModified": "2026-10-22T13:14:04Z",
+      "mapLat": 40.6,
+      "mapLon": -87.3,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "IN.TPC.WLHadleyMoors",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-22T12:59:29Z",
+      "lastModified": "2026-10-22T12:59:38Z",
+      "mapLat": 40.5,
+      "mapLon": -86.9,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "EARL AVE RPTR",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-22T12:31:56Z",
+      "lastModified": "2026-10-22T12:33:12Z",
+      "mapLat": 40.4,
+      "mapLon": -86.9,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "KD9BKU Observer",
+      "type": "Room Server",
+      "typeCode": 3,
+      "route": "Flood",
+      "lastAdvert": "2026-10-22T11:58:59Z",
+      "lastModified": "2026-10-22T11:59:03Z"
+    },
     {
       "name": "KD9ZHJ Wio",
       "type": "Companion",
@@ -42,28 +116,6 @@
       "lastModified": "2026-10-20T11:05:39Z",
       "mapLat": 39.4,
       "mapLon": -84.5,
-      "mapLocation": "Approximate"
-    },
-    {
-      "name": "IN.TPC.WLCumberlandPark",
-      "type": "Repeater",
-      "typeCode": 2,
-      "route": "Flood",
-      "lastAdvert": "2026-10-21T10:51:53Z",
-      "lastModified": "2026-10-20T06:52:42Z",
-      "mapLat": 40.5,
-      "mapLon": -86.9,
-      "mapLocation": "Approximate"
-    },
-    {
-      "name": "IN.TPC.WLHadleyMoors",
-      "type": "Repeater",
-      "typeCode": 2,
-      "route": "Flood",
-      "lastAdvert": "2026-10-20T06:59:27Z",
-      "lastModified": "2026-10-20T06:59:37Z",
-      "mapLat": 40.5,
-      "mapLon": -86.9,
       "mapLocation": "Approximate"
     },
     {
