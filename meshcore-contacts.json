@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-22T14:42:46.348762Z",
+  "updated": "2026-10-26T11:45:48.213016Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -13,15 +13,37 @@
     "exactCoordinatesPublished": false
   },
   "summary": {
-    "contacts": 14,
+    "contacts": 16,
     "companions": 2,
-    "repeaters": 10,
+    "repeaters": 12,
     "roomServers": 2,
-    "floodRoutes": 14,
+    "floodRoutes": 16,
     "learnedPaths": 0,
-    "positionedContacts": 13
+    "positionedContacts": 15
   },
   "contacts": [
+    {
+      "name": "BLANCA Repeater",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-26T08:05:09Z",
+      "lastModified": "2026-10-26T08:05:23Z",
+      "mapLat": 39.3,
+      "mapLon": -84.5,
+      "mapLocation": "Approximate"
+    },
+    {
+      "name": "N8PMN_Observer",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-10-26T07:57:56Z",
+      "lastModified": "2026-10-26T07:58:08Z",
+      "mapLat": 40.0,
+      "mapLon": -83.8,
+      "mapLocation": "Approximate"
+    },
     {
       "name": "IN.TPC.WLCumberlandPark",
       "type": "Repeater",
