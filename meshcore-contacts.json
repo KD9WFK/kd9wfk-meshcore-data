@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-26T11:45:48.213016Z",
+  "updated": "2026-11-06T23:48:44.395046Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -13,15 +13,26 @@
     "exactCoordinatesPublished": false
   },
   "summary": {
-    "contacts": 16,
+    "contacts": 17,
     "companions": 2,
-    "repeaters": 12,
+    "repeaters": 13,
     "roomServers": 2,
-    "floodRoutes": 16,
+    "floodRoutes": 17,
     "learnedPaths": 0,
-    "positionedContacts": 15
+    "positionedContacts": 16
   },
   "contacts": [
+    {
+      "name": "IN.HAM.NoblesvilleSouth",
+      "type": "Repeater",
+      "typeCode": 2,
+      "route": "Flood",
+      "lastAdvert": "2026-11-06T23:43:48Z",
+      "lastModified": "2026-11-06T23:44:18Z",
+      "mapLat": 40.0,
+      "mapLon": -86.0,
+      "mapLocation": "Approximate"
+    },
     {
       "name": "BLANCA Repeater",
       "type": "Repeater",
