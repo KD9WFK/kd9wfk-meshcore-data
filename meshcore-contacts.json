@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-09T20:22:12.013233Z",
+  "updated": "2026-11-13T05:20:42.870449Z",
   "homeNode": {
     "name": "KD9WFK",
     "device": "LILYGO LILY60",
@@ -27,8 +27,8 @@
       "type": "Repeater",
       "typeCode": 2,
       "route": "Flood",
-      "lastAdvert": "2026-11-09T20:20:09Z",
-      "lastModified": "2026-11-09T20:20:12Z",
+      "lastAdvert": "2026-11-13T05:20:09Z",
+      "lastModified": "2026-11-13T05:20:04Z",
       "mapLat": 40.0,
       "mapLon": -86.1,
       "mapLocation": "Approximate"
